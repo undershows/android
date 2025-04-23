@@ -2,7 +2,7 @@
 
 Aplicativo Android do **Undershows**, projeto que divulga shows underground de metal, punk e hardcore no Brasil todo — direto no seu bolso!
 
-O app carrega o site [https://undershows.com.br](https://undershows.com.br) em formato mobile e responsivo, com suporte a atualização de cartazes frequente, mesmo offline.
+O app carrega o site [https://shows.undershows.com.br](https://shows.undershows.com.br) em formato mobile e responsivo, com suporte a atualização de cartazes frequente, mesmo offline.
 
 ---
 
@@ -20,7 +20,7 @@ O app carrega o site [https://undershows.com.br](https://undershows.com.br) em f
 
 O app está em fase de **validação na Play Store** pela Google.  
 Enquanto isso, é possível testar com o `.apk` manualmente, através do link abaixo:
-
+https://github.com/undershows/android/releases/tag/undershows
 
 ---
 
@@ -30,21 +30,29 @@ Enquanto isso, é possível testar com o `.apk` manualmente, através do link ab
 2. Clone este repositório:
 
 ```bash
-git clone https://github.com/seu-usuario/undershows-app.git
-cd undershows-app
+git git@github.com:undershows/android.git
+cd android
 ```
 
 3. Abra o projeto no Android Studio
 
 4. Execute em um emulador ou dispositivo real (mínimo Android 5.0)
 
+---
+
 ## 📁 Estrutura de pastas
+
+```
 app/
  ├── src/             # Código-fonte principal
  ├── build.gradle     # Configuração do módulo
  └── ...              # Outros arquivos do projeto
+```
+
+---
 
 ## 📜 Licença
-Pode fazer fork a vontade, contribuir, compartilhar — e apoiar a cena independente. 🖤
-Copyleft!
-A/E
+
+Pode fazer fork a vontade, contribuir, compartilhar — e apoiar a cena independente.\
+Copyleft!\
+A/E 🖤

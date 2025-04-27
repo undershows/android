@@ -20,7 +20,7 @@ O app carrega o site [https://shows.undershows.com.br](https://shows.undershows.
 
 O app está em fase de **validação na Play Store** pela Google.  
 Enquanto isso, é possível testar com o `.apk` manualmente, através do link abaixo:
-https://github.com/undershows/android/releases/tag/undershows
+https://github.com/undershows/android/releases
 
 ---
 

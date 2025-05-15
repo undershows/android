@@ -2,7 +2,7 @@
 
 Aplicativo Android do **Undershows**, projeto que divulga shows underground de metal, punk e hardcore no Brasil todo — direto no seu bolso!
 
-O app carrega o site [https://shows.undershows.com.br](https://shows.undershows.com.br) em formato mobile e responsivo, com suporte a atualização de cartazes frequente, mesmo offline.
+O app carrega o site [https://shows.undershows.com.br](https://shows.undershows.com.br) em formato mobile e responsivo, com suporte a atualização de cartazes frequente.
 
 ---
 
@@ -18,9 +18,8 @@ O app carrega o site [https://shows.undershows.com.br](https://shows.undershows.
 
 ## 🚀 Status
 
-O app está em fase de **validação na Play Store** pela Google.  
-Enquanto isso, é possível testar com o `.apk` manualmente, através do link abaixo:
-https://github.com/undershows/android/releases
+O app está disponível na Google Play
+https://play.google.com/store/apps/details?id=com.undershows.app
 
 ---
 
